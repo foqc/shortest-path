@@ -3,19 +3,6 @@ const words = new Set(['BUT', 'CUT', 'RAT', 'BAT', 'WEB', 'CAT', 'COT', 'COG', '
 const start = 'CAT'
 const target = 'DOG'
 
-class Ladder {
-    constructor(path, lastWord) {
-        this._path = path
-        this._lastWord = lastWord
-    }
-    get path() {
-        return this._path
-    }
-    get lastWord() {
-        return this._lastWord
-    }
-}
-
 function differByOne(word, target) {
     if (word.length !== target.length) return false
     let diffCount = 0
