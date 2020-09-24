@@ -11,4 +11,4 @@ This is an implementation of the Breadth First Search to find the shortest path.
 
 This app was built for the purpose of sharing my knowledge on it, this is explained in my personal Blog.
  
-You can check out this post [here](https://quijosakaf.com/public/blog/el-camino-mas-corto-bfs).
+You can check out this post [here](https://quijosakaf.com/blog/the-shortest-path-bfs-5f8e).
